@@ -1,0 +1,14 @@
+Create an Android Application with Empty Activty.
+https://openweathermap.org/appid
+Create your ID here.
+You wil get mail with subject:OpenWeatherMap API Instruction
+
+Networking Http client for Android built on top of Apache’s 
+HttpClient libraries.
+: https://loopj.com/android-async-http/
+
+Add permission:
+<uses-permission android:name="android.permission.INTERNET"/>
+<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
